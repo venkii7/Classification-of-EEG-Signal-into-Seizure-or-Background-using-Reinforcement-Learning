@@ -438,6 +438,6 @@ RL-EEG-TUH/
 
 ### 8.3 Reproducibility
 
-All experiments use a fixed random seed of **42** for NumPy, PyTorch, and Python random generators to ensure full reproducibility. Hyperparameters are centralized in `config.py` to facilitate controlled experimentation and ablation studies.
+*All experiments use a fixed random seed of **42** for NumPy, PyTorch, and Python random generators to ensure full reproducibility. Hyperparameters are centralized in `config.py` to facilitate controlled experimentation and ablation studies.*
 
 ---
